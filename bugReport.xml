@@ -1,0 +1,20 @@
+<bugReport>
+  <ID>0001</ID>
+  <Severity>Trivial</Severity>
+  <Enviroment>Win 7 Chrome 109 IPhone 11 IOS 16.4.1 </Enviroment>
+  <Title>The link [Share price] redirects to the english page from Trading Course 1, section 2 when AR, NL, VI, TH or ZN is chosen</Title>
+  <Precondition></Precondition>
+  <Steps>
+      <1>Navigate to capital.com</1>
+      <2>Hover over the [Education] menu section</2>
+      <3>Click the [Trading сourses] menu item</3>
+      <4>Click the [Who are the main market players?] row in the Introduction to Financial Markets box</4>
+      <5>Select AR, NL, VI, TH or ZN language</5>
+      <6>Scroll to the second to the last paragraph</6>
+      <7>Click the link [Share price]</7>
+  </Steps>
+  <Postcondition></Postcondition>
+  <ExpectedResult>The link [Share price] redirects to the page translated into chosen language</ExpectedResult>
+  <ActualResult>The link [Share price] redirects to the english page</ActualResult>
+  <Attacment>link</Attacment>
+</bugReport>
