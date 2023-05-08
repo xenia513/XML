@@ -16,6 +16,6 @@
   <Postcondition></Postcondition>
   <ExpectedResult>The link [Share price] redirects to the page translated into chosen language</ExpectedResult>
   <ActualResult>The link [Share price] redirects to the english page</ActualResult>
-  <Attacment>link</Attacment>
+  <Attachment>link</Attachment>
   <Author>@xenia513</Author>
 </bugReport>
