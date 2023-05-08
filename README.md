@@ -100,8 +100,7 @@
 
     XML >> bugReport.xml >> Edit this file
 
-![edit-file-edit-button]
-(https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)
+[(https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)](https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)
 
 Вводим текст: 
 
