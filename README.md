@@ -99,8 +99,8 @@
 ### 16. На веб-интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML
 
     XML >> bugReport.xml >> Edit this file
-
-[(https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)](https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)
+[
+[(https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)](https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)](https://docs.github.com/assets/cb-47677/images/help/repository/edit-file-edit-button.png)
 
 Вводим текст: 
 
