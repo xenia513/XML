@@ -4,7 +4,7 @@
 
 ### 1. Создать внешний репозиторий c названием XML
 
-    Repositories >> New >> XML >> Create repository >> XML
+    Repositories >> New >> XML >> Create repository 
 
 ### 2. Клонировать репозиторий XML на локальный компьютер
 
@@ -82,7 +82,7 @@
 
 ### 12. Сделать коммит в одну строку
 
-    $ git add . && git commit -m "added preferences.json and skills.json"
+    $ git add . && git commit -m "added preferences.xml and skills.xml"
 
 ### 13. Отправить сразу 2 файла на внешний репозиторий
 
