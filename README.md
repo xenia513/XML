@@ -100,6 +100,8 @@
 
     XML >> bugReport.xml >> Edit this file
 
+Кнопка редактирования файла выглядит так:
+
 ![Edit this file button](https://docs.github.com/assets/cb-47677/mw-1440/images/help/repository/edit-file-edit-button.webp)
 
 Вводим текст: 
